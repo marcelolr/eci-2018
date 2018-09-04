@@ -90,11 +90,18 @@ Para simplificar, el personaje es invisible.
 Sí, pueden usar OpenGL.
 
 Pueden usar Vulkan si quieren, pero van a tener que manejar algunas cosas a mano.
-Por ejemplo, cómo están en memoria los descritpors (resource views en DX), barreras, transiciones de estado, y estado de pipeline. 
+Por ejemplo, cómo están en memoria los descriptors (resource views en DX), barreras, transiciones de estado, y estado de pipeline. 
 
 ### ¿Qué hago si sólo tengo accesso a una Mac?
 Si tienen una Mac, puede entregar el proyecto usando OpenGL.
 
 ### ¿Tiene que ser físicamente correcto el rendering?
-No, no hace falta que mantengan energía o hagan un modelo completo de luz. Sí espero que tengan en considaración los materiales de los elementos como para que sean distinguibles, y que tengan en consideración las fuentes de luz en la escena; pero pueden usar 'luz ambiente' y otras aproximaciones.
+No, no hace falta que mantengan energía o hagan un modelo completo de luz. Sí espero que tengan en consideración los materiales de los elementos como para que sean distinguibles, y que tengan en consideración las fuentes de luz en la escena; pero pueden usar 'luz ambiente' y otras aproximaciones.
+
+## ¿Dónde envío el trabajo?
+
+Pueden enviarlo a marcelo arroba lopezruiz.net. Si el codigo o assets son demasiado grandes para enviar por correo, pueden enviarme un correo con un link a un FTP o github.
+
+Cuando envien el trabajo, voy a confirmar que lo recibi - por favor asegurense de recibir esta confirmacion, o ponganse en contacto conmigo directamente (sin attachments) para ver que ocurre.
+
 
